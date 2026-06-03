@@ -32,7 +32,7 @@ const Body = () => {
   }, []);
 
   return (
-    <div>
+    <div style={{ background: "#08080c", minHeight: "100vh" }}>
       <NavBar />
       <Outlet />
       <Footer />
