@@ -67,7 +67,7 @@ const Feed = () => {
         @import url('https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:wght@400&display=swap');
         .feed-page {
           background: #08080c;
-          min-height: 85vh;
+          min-height: 80vh;
           display: flex;
           flex-direction: column;
           align-items: center;

@@ -49,7 +49,7 @@ const Login = () => {
         @import url('https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=DM+Sans:wght@300;400;500&display=swap');
 
         .login-page {
-          min-height: 100vh;
+          min-height: 80vh;
           background: #08080c;
           display: flex;
           align-items: center;
